@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 Criamos uma página web com um formulario de cadatrar de mentoria, com informações sobr o mentor e data dia e hora de cada mentoria.
 
-- [Acesse o projeto finalizado, online](https://erlanmarinho.github.io/explorerFormulario/)
+- [Acesse o projeto finalizado, online](https://erlanmarinho.github.io/explorerDesafioForm1/)
 
 
 
